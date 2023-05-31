@@ -1,1 +1,1 @@
-My first readme
+This repositiory contains alx pre course files on GIT tasks
